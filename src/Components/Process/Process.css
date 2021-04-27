@@ -1,0 +1,29 @@
+.process {
+  padding: 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.process__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 59px;
+  color: rgba(0, 0, 0, 0.88);
+  backdrop-filter: blur(10px);
+}
+.process__text {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  max-width: 640px;
+  color: #000000;
+  margin: 0 auto;
+}
+.process__img {
+  padding: 60px 0;
+}

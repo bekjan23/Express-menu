@@ -1,0 +1,44 @@
+.navigation {
+  padding: 50px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  color: #000000;
+  cursor: pointer;
+}
+.logo-green {
+  color: green;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.nav__link {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  padding: 0 25px;
+}
+.nav__link:active {
+  font-weight: bold;
+}
+.btn-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#ru-en {
+  margin: 0 25px 0 0;
+  outline: none;
+}
