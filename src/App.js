@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Navigation from './Components/Navigation/Navigation';
 import Header from './Components/Header/Header';
 import Options from './Components/Options/Options';
@@ -8,6 +6,7 @@ import Order from './Components/Order/Order';
 import Process from './Components/Process/Process';
 import Coments from './Components/Coments/Coments';
 import Footer from './Components/Footer/Footer';
+import './App.css';
 
 function App() {
   return (
