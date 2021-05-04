@@ -4,13 +4,10 @@ import './Footer.css';
 function Footer() {
   return (
     <div className="footer">
-      <div className="footer__content container">
+      <div className="container footer__content ">
         <p className="footer__name">© 2021 My Project name.</p>
         <div className="logo footer__logo">Express<span className="logo-green">Menu</span></div>
-        <div className="footer__text">
-          <p className="footer__text-1">Terms and conditions</p>
-          <p className="footer__text-1">How it works</p>
-        </div>
+        <p className="footer__text">Terms and conditions <span className="footer__text-2">How it works</span></p>
       </div>
     </div>
   )

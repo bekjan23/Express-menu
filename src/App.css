@@ -12,8 +12,8 @@ body, html {
   font-family: 'Montseratt', sans-serif;
 }
 .container {
-  width: 1576px;
-  margin: 0 auto;
+  max-width: 1576px;
+  margin: 0 auto; 
 }
 .btn {
   font-family: 'Open Sans', sans-serif;

@@ -34,7 +34,7 @@ function Coments() {
 Отсутствие более 30% комиссии на платформах доставки еды. Это супер дешевая платформа, которая сэкономила нам кучу денег.</p>
           </div>
 
-          <div className="coment__card">
+          <div className="coment__card coment__card-2">
             <div className="user">
               <div className="user__info">
                 <img src={User2} alt="" className="user__avatar"/>

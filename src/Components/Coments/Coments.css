@@ -52,3 +52,8 @@
   line-height: 25px;
   color: rgba(0, 0, 0, 0.73);
 }
+@media (max-width:1482px) {
+  .coment__card-2 {
+    display: none;
+  }
+}
